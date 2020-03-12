@@ -1,6 +1,6 @@
 # Pneumonia_detection_Pytorch
 
-<p><strong>Objective</strong>: To use Pytorch Resnet model to classify if the xray image of chest belongs to a patient suffering from pnemonia or not.</p>
+<p><strong>Objective</strong>: To use Pytorch Resnet model to classify if the xray image of chest belongs to a patient suffering from pneumonia or not.</p>
 <p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.kaggle.com%2Fpytorch%2Fresnet18&amp;psig=AOvVaw2mbzJIjtSXZx57-I23avl-&amp;ust=1584110108151000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCPDMkZaUlegCFQAAAAAdAAAAABAK" alt="" /><img src="https://storage.googleapis.com/kaggle-datasets-images/6885/9959/d9e74a548a8cdca167b38520ac8bf405/data-original.png?t=2017-12-12-23-54-44" alt="" width="561" height="118" /></strong></p>
 <p><strong>Model Architecture:&nbsp;</strong></p>
 <p>model:&nbsp;<a href="https://storage.googleapis.com/kaggle-datasets-images/6885/9959/d9e74a548a8cdca167b38520ac8bf405/data-original.png?t=2017-12-12-23-54-44">resnet18</a></p>
